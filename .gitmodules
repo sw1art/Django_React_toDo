@@ -1,6 +1,3 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/sw1art/React_toDo.git
 [submodule "frontend_todo"]
 	path = frontend_todo
 	url = https://github.com/sw1art/React_toDo.git
